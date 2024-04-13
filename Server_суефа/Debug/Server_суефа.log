@@ -1,0 +1,4 @@
+﻿  Server_суефа.cpp
+C:\Users\Илья\source\repos\Server_суефа\Server_суефа.cpp(33,13): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Илья\source\repos\Server_суефа\Server_суефа.cpp(31,14): warning C4101: buffer: неиспользованная локальная переменная
+  Server_суефа.vcxproj -> C:\Users\Илья\source\repos\Server_суефа\Debug\Server_суефа.exe
